@@ -19,4 +19,4 @@ Every single challenge and code written during my journey. You can navigate thro
 
 ###### Feedback
 
-I'll deeply appreciate any feedback regarding code quality, refactoring or ordering of this repository. Feel free to contact me with your suggestion or send a PR covering
+I'll deeply appreciate any feedback regarding code quality, refactoring or ordering of this repository. Feel free to contact me with your suggestion or send a PR covering your suggestion.
