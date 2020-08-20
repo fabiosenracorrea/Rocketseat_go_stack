@@ -38,7 +38,7 @@ app.put("/repositories/:id", (request, response) => {
     return response.status(400).json({Error: "Repository not found."});
   }
 
-  if (!title && !url && !techs) {
+  if (!title || !url || !techs) {
     return response.status(403).json({likes: repositories[repIndex].likes})
   }
 
