@@ -8,13 +8,13 @@ After learning the basics of creating a back-end server with NodeJS and how to b
 
 To sum up what's been covered, we saw:
 
+* Using *Docker* to handle databases
 * Creation of Models to better define how our data is created/treated.
 * Use of *repositories* to connect our application to our data. Only these repositories are allowed to access/query the data.
 * Use of single responsability *services* to perform an operation/apply logic on our route.
 * File import: Receiving a CSV file and parsing it to add it's contents to the dataBase
 
 Just like last module. The difference here is: we are now using a Postgres (SQL) database save each request we get.
-
 
 #### How to run this module's challenge
 
