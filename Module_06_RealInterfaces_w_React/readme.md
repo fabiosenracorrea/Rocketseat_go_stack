@@ -1,4 +1,4 @@
-# Module 05 - Real Interfaces With React
+# Module 06 - Real Interfaces With React
 
 This repository holds the content and exercises of Go Stack's sixth module.
 
