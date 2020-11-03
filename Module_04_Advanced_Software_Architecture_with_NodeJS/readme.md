@@ -28,6 +28,8 @@ reqBody = {
 ```
   2. Then you can list your transaction history using a GET request.
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 #### Grade on this module
 
 This project got **10/10 100%** as per below:

@@ -6,6 +6,8 @@ This repository holds the content and exercises of Go Stack's first module: Node
 
 NodeJS is a platform, build over Chrome's V8 that allows us to create and manage a backend using JavaScript. It's main characteristics are an Event-Loop + Call Stack architecture and Non-blocking I/O.
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 #### Framework of choice
 
 On this bootcamp, we'll use [Express](https://expressjs.com/) as our framework, due to it's simplicity to create a project and it's open structure.

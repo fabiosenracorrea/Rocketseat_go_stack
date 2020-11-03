@@ -16,6 +16,8 @@ To sum up what's been covered, we saw:
 
 Just like last module. The difference here is: we are now using a Postgres (SQL) database save each request we get.
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 #### How to run this module's challenge
 
 1. clone this repository.

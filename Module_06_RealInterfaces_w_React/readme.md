@@ -18,6 +18,8 @@ On that, we've seen:
 * Connecting to our API using `axios`
 * Saving data on `localStorage`
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 #### How to run this module's challenge
 
 *preparing*

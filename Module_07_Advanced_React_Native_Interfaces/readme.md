@@ -8,7 +8,10 @@ This repository holds the content and exercises of Go Stack's seventh module.
 
 ## What was covered here?
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
 After understanding advanced key concepts on React, such as navigation and context, it's time to see how they are done in a React Native app. On this challenge, we develop a two-screen marketplace-like application that connects to an API to get the available products and handles Cart additions though context.
+
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
 
 #### How to run this module's challenge
 

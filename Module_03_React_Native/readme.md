@@ -12,6 +12,8 @@ React Native is a way of developing apps with native code to Android and IOS. It
 * There's no style inheritance. The only exception is when there's a Text component inside another.
 * A few CSS features are not present, like `display: grid` or animations and pseudo-classes.
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 #### How to run this module's challenge
 
 Make sure you have either npm or yarn installed, that you are running the server from module 01, [link here](../Module_01_NodeJS), and that you have an emulator set up.

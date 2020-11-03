@@ -6,6 +6,8 @@ This repository holds the content and exercises of Go Stack's second module: Rea
 
 React is a powerful library to create SPAs (single page applicatios) with re-usable 'HTML-like' components. And everything is done with a new syntax: JSX.
 
+To see the full instructions of the challenge, you can click [here](./project-instructions.md).
+
 ### Main concepts
 
 * Components
