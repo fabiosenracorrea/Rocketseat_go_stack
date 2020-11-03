@@ -12,6 +12,7 @@ The Bootcamp has a duration of 20 weeks and it's going to cover concepts on fund
 * JEST testing
 * SQL database/syntax
 * Advanced CSS
+* SOLID Software Architecture
 
 ## What will you find here?
 
