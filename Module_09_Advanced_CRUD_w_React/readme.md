@@ -1,6 +1,6 @@
 # Module 09 - Advanced CRUD w/ React
 
-This repository holds the content and exercises of Go Stack's seventh module.
+This repository holds the content and exercises of Go Stack's ninth module.
 
 ## Challenge Overview
 
