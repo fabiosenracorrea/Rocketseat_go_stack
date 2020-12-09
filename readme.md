@@ -93,7 +93,9 @@ Every single challenge and code written during my journey. You can navigate thro
 
 As a course centered around content acquisition, a certificate is only given to the students that acquire 70% or higher global grade over the course of the presented challenges. The score obtained was a **perfect 10**. **100%** was the final grade achieved here! And for that, the following certificate was earned:
 
-<img src="./Certificate/enUS/Fábio-Senra-Corrêa_GoStack14_Certificate.jpeg" alt"Fabio-Senra-Correa-gostack-certificate" width="100%" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/fabiosenracorrea/Rocketseat_go_stack/blob/master/Certificate/enUS/Fabio-Senra-Correa_GoStack_Certificate.jpeg"  alt="cs50" width="1000" />
+</div>
 
 ###### Feedback
 
