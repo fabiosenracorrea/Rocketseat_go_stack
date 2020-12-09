@@ -62,6 +62,7 @@ The course has a max-duration of 20 weeks and it covers knowledge on the most de
 * [SOLID](https://en.wikipedia.org/wiki/SOLID) principles
 * [Jest](https://jestjs.io/) testing with TDD and unitary tests
 * [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+* [React Hooks Testing Library](https://github.com/testing-library/react-hooks-testing-library#installation)
 
 ## Deployment
 
@@ -87,6 +88,12 @@ Every single challenge and code written during my journey. You can navigate thro
 8. [Advanced Database Relations w/ TypeORM](Module_08_Database_Relations_w_NodeJS_Typeorm)
 9. [Advanced CRUD with React](Module_09_Advanced_CRUD_w_React)
 10. [Advanced CRUD with React Native](Module_10_Advanced_CRUD_w_React_Native)
+
+# Grade and Certificate
+
+As a course centered around content acquisition, a certificate is only given to the students that acquire 70% or higher global grade over the course of the presented challenges. The score obtained was a **perfect 10**. **100%** was the final grade achieved here! And for that, the following certificate was earned:
+
+<img src="./Certificate/enUS/Fábio-Senra-Corrêa_GoStack14_Certificate.jpeg" alt"Fabio-Senra-Correa-gostack-certificate" width="100%" />
 
 ###### Feedback
 
