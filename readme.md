@@ -70,7 +70,7 @@ The course has a max-duration of 20 weeks and it covers knowledge on the most de
 
 ## Final Project
 
-During the course, a fully functional application was built from scratch. You can find it's code and previews on a separate repository here. **(TBA TBA TBA)**
+During the course, a fully functional application was built from scratch. You can find it's code and previews on a separate repository [here](https://github.com/fabiosenracorrea/Go_Barber).
 
 ## What will you find here?
 
